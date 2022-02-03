@@ -1,0 +1,9 @@
+*.asv
+*.DS_Store
+*.o
+/.vscode/*
+/.idea/*
+/build/*
+/src/__pycache__/*
+/externals/astar-algorithm-cpp/build/**
+*.exe

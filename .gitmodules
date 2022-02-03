@@ -1,0 +1,4 @@
+[submodule "externals/astar-algorithm-cpp"]
+	path = externals/astar-algorithm-cpp
+	url = https://github.com/zehuilu/astar-algorithm-cpp.git
+	ignore = dirty
