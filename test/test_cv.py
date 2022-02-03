@@ -34,7 +34,7 @@ if __name__ == "__main__":
     # define the start and goal
     num_agent = 3
     num_targets = 9
-    agent_position, targets_position = MySimulator.generate_start_and_goals(num_agent, num_targets)
+    agent_position, targets_position = MySimulator.generate_multi_agent_and_goals(num_agent, num_targets)
     
     path, cost = CV_model(agent_position, targets_position, world_map, map_width, map_height)
     
