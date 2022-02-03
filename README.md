@@ -41,7 +41,6 @@ Example output:
 # Citation
 The compromise view model for multi-agent tasks allocation is based on the following paper. Appreciate authors for their work.
 ```
-S. Biswas, S. G. Anavatti and M. A. Garratt, 
-"Particle swarm optimization based co-operative task assignment and path planning for multi-agent system," 
-2017 IEEE Symposium Series on Computational Intelligence (SSCI), 2017, pp. 1-6, doi: 10.1109/SSCI.2017.8280872.
+Biswas, S.; Anavatti, S.G.; Garratt, M.A. A Time-Efficient Co-Operative Path Planning Model Combined with Task Assignment for Multi-Agent Systems. 
+Robotics 2019, 8, 35. https://doi.org/10.3390/robotics8020035
 ```
